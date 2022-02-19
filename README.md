@@ -1,3 +1,3 @@
 # Pepcoding_DSA
 Pepcoding DSA Level 1,Level 2 and Level 3 questions solved .
-Langhuage Used - C++
+Language Used - C++
